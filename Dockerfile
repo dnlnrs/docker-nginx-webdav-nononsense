@@ -6,7 +6,7 @@
 # FAQ: 
 # Q: Will you add SSL? N: No, I can't bother, I use a reverse proxy. Pull requests are however welcome!
 
-FROM ghcr.io/linuxserver/baseimage-ubuntu:focal-version-a5bbd122
+FROM ghcr.io/linuxserver/baseimage-ubuntu:arm64v8-bionic
 
 LABEL maintainer="Daniel Graziotin, daniel@ineed.coffee"
 
